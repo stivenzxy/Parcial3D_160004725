@@ -12,6 +12,7 @@ El diseño fue realizado íntegramente en **FreeCAD**, utilizando cuerpos, bocet
 El repositorio incluye:
 - El archivo editable (`.FCStd`)
 - El modelo exportado en formato STL listo para impresión 3D (`.stl`)
+- El modelo exportado en formato gcode (usando Cura) extendiendo la compatibilidad con herramientas como OctoPrint
 
 ---
 
